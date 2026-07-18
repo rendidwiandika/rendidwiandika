@@ -10,16 +10,10 @@
   </a>
 </p>
 
-<!-- Tagline dalam kotak, biar gak kosong tapi tetap gak kelihatan kayak tombol -->
-<table align="center">
-  <tr>
-    <td align="center">
-      📊 <b>Data Analytics</b> &nbsp;&middot;&nbsp; 💼 <b>Bisnis Digital</b> &nbsp;&middot;&nbsp; 🎯 <i>Business + Data = Better Decisions</i>
-    </td>
-  </tr>
-</table>
-
-
+<!-- GIF Anime -->
+<div align="center">
+  <img src="https://media1.tenor.com/m/PXDaK1lyl9UAAAAd/hey-hey-ai-hayasaka.gif" width="280" alt="Anime Waifu">
+</div>
 
 ### 🧭 Tentang Saya
 
@@ -40,10 +34,6 @@ Ketertarikan saya ada di tiga area:
 Saya senang belajar hal baru di dunia data dan terbuka untuk kolaborasi, magang, atau diskusi seputar data analytics maupun business intelligence.
 
 </h4>
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/PXDaK1lyl9UAAAAd/hey-hey-ai-hayasaka.gif" width="280" alt="Anime Waifu">
-</div>
 
 ---
 

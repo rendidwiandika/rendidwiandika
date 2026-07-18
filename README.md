@@ -1,7 +1,7 @@
-<!-- Banner Baru dari Generator -->
+<!-- Banner -->
 <img src="./github-header-banner.png" width="100%" alt="Header Banner">
 
-<!-- GIF Anime (Tengah) -->
+<!-- GIF Anime -->
 <div align="center">
   <img src="https://media.tenor.com/uR2i12ZkCRAAAAAi/hayasaka-kaguya.gif" width="160" alt="Anime Waifu">
 </div>
@@ -12,20 +12,20 @@ Saya adalah mahasiswa **Bisnis Digital** yang berfokus pada **Data Analytics**. 
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <!-- Icon Khusus Developer (Skill-Icons) -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,py,github&theme=dark" alt="Dev Tools" />
-  </a>
+  <!-- Icon Developer & Database (Upload Manual) -->
+  <img src="./python_18894-removebg-preview.png" width="40" alt="Python"> &nbsp;
+  <img src="./postgree-removebg-preview.png" width="40" alt="PostgreSQL"> &nbsp;
+  <img src="./mysql-6-logo-png-transparent-removebg-preview.png" width="40" alt="MySQL"> &nbsp;
+  <img src="./bigquerry-removebg-preview.png" width="40" alt="BigQuery"> &nbsp;
+  <img src="./pngtree-cartoon-snowflake-icon-download-png-image_4440099-removebg-preview.png" width="40" alt="Snowflake"> &nbsp;
+  <img src="./sap-logo-vector-11573942505cqxaqpwu0h-removebg-preview.png" width="40" alt="SAP"> &nbsp;
   <br><br>
-  <!-- Icon Custom Tanpa Teks (Untuk Tools Bisnis & Data Spesifik) -->
-  <img src="https://img.shields.io/badge/%20-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="BigQuery">
-  <img src="https://img.shields.io/badge/%20-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
-  <img src="https://img.shields.io/badge/%20-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
-  <img src="https://img.shields.io/badge/%20-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/%20-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Access">
-  <img src="https://img.shields.io/badge/%20-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/%20-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Spreadsheet">
-  <img src="https://img.shields.io/badge/%20-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word">
+  <!-- Icon Analisis & Office (Upload Manual) -->
+  <img src="./power-bi-logo-freelogovectors.net_-removebg-preview.png" width="40" alt="Power BI"> &nbsp;
+  <img src="./microsoft-access-removebg-preview.png" width="40" alt="Access"> &nbsp;
+  <img src="./Microsoft-Excel-Logo-New-removebg-preview.png" width="40" alt="Excel"> &nbsp;
+  <img src="./google-sheet-spreadsheet-icon-logo-symbol-free-png-removebg-preview.png" width="40" alt="Spreadsheet"> &nbsp;
+  <img src="./Github Logo.png" width="40" alt="GitHub"> 
 </p>
 
 ### 📊 GitHub Stats
@@ -35,7 +35,9 @@ Saya adalah mahasiswa **Bisnis Digital** yang berfokus pada **Data Analytics**. 
 
 ### 📫 Mari Terhubung!
 <p align="left">
-  <a href="https://www.linkedin.com/in/rendidwiandika"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/rendidwiandika">
+    <img src="./linkedin-icon-free-png-removebg-preview.png" width="40" alt="LinkedIn">
+  </a>
 </p>
 
 ### 👾 Pacman Contribution Game

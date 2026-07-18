@@ -17,7 +17,7 @@
 
 <!-- GIF Anime -->
 <div align="center">
-  <img src="https://media.tenor.com/uR2i12ZkCRAAAAAi/hayasaka-kaguya.gif" width="160" alt="Anime Waifu">
+  <img src="https://media1.tenor.com/m/PXDaK1lyl9UAAAAd/hey-hey-ai-hayasaka.gif" width="160" alt="Anime Waifu">
 </div>
 
 ---

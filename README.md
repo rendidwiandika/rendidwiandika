@@ -15,6 +15,11 @@
   <sub>📊 <b>Data Analytics</b> &nbsp;&middot;&nbsp; 💼 <b>Bisnis Digital</b> &nbsp;&middot;&nbsp; 🎯 <i>Business + Data = Better Decisions</i></sub>
 </p>
 
+<!-- GIF Anime -->
+<div align="center">
+  <img src="https://media.tenor.com/uR2i12ZkCRAAAAAi/hayasaka-kaguya.gif" width="160" alt="Anime Waifu">
+</div>
+
 ---
 
 ### 🧭 Tentang Saya
@@ -46,23 +51,6 @@ Saya senang belajar hal baru di dunia data dan terbuka untuk kolaborasi, magang,
   <br>
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=rendidwiandika&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rendidwiandika&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=rendidwiandika&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rendidwiandika&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies">
 </p>
 
 ---

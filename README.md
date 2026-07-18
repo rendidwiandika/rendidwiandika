@@ -1,43 +1,46 @@
-<!-- Banner Animasi -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&animation=fadeIn" width="100%">
+<!-- Banner Bisnis & Data -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00529B&height=250&section=header&text=Transforming%20Data%20into%20Business%20Value&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Digital%20Business%20%7C%20Data%20Analytics&descAlign=Y&descAlignY=65" width="100%">
 
-<!-- GIF Waifu Anime (Tengah) -->
+<!-- GIF Anime (Tengah) -->
 <div align="center">
-  <img src="https://media.tenor.com/JjKzL521TQQAAAAC/anime-hi.gif" width="180">
+  <img src="https://media.tenor.com/uR2i12ZkCRAAAAAi/hayasaka-kaguya.gif" width="160" alt="Anime Waifu">
 </div>
 
-# Halo! 👋 Saya [Nama Kamu]
+# Halo! 👋 Saya Rendi Dwi Andika
 
-Saya seorang mahasiswa **Bisnis Digital** yang bersemangat di bidang **Data Analytics**. Saya suka mengubah data mentah menjadi wawasan bisnis yang bermanfaat, membuat *dashboard* interaktif, dan di waktu luang, saya menikmati kultur anime! 🎌
+Saya adalah mahasiswa **Bisnis Digital** yang berfokus pada **Data Analytics**. Saya memiliki minat yang kuat dalam merancang strategi bisnis berbasis data, mengelola *database*, dan membuat *dashboard* interaktif, khususnya untuk diterapkan pada sektor korporat dan finansial.
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <!-- Badges Skill -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <!-- Database & Data Warehouse -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="BigQuery">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
+  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Access">
+  <br>
+  <!-- Analytics & Programming -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
+  <br>
+  <!-- Office & Spreadsheets -->
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Spreadsheet">
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word">
 </p>
 
 ### 📊 GitHub Stats
 <p align="left">
-  <!-- Ganti USERNAME_KAMU di bawah ini -->
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rendidwiandika&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ### 📫 Mari Terhubung!
 <p align="left">
-  <!-- Ganti LINKEDIN_KAMU di bawah ini -->
-  <a href="https://linkedin.com/in/LINKEDIN_KAMU"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/rendidwiandika"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-### 🐍 GitHub Snake Game
+### 👾 Pacman Contribution Game
 <div align="center">
-  <picture>
-    <!-- Ganti USERNAME_KAMU di bawah ini (ada 3 tempat) -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/rendidwiandika/rendidwiandika/output/github-contribution-grid-snake.svg" alt="Pacman Animation">
 </div>

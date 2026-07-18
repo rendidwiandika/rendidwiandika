@@ -12,22 +12,20 @@ Saya adalah mahasiswa **Bisnis Digital** yang berfokus pada **Data Analytics**. 
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <!-- Database & Data Warehouse -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="BigQuery">
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
-  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Access">
-  <br>
-  <!-- Analytics & Programming -->
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
-  <br>
-  <!-- Office & Spreadsheets -->
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Spreadsheet">
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word">
+  <!-- Icon Khusus Developer (Skill-Icons) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,py,github&theme=dark" alt="Dev Tools" />
+  </a>
+  <br><br>
+  <!-- Icon Custom Tanpa Teks (Untuk Tools Bisnis & Data Spesifik) -->
+  <img src="https://img.shields.io/badge/%20-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="BigQuery">
+  <img src="https://img.shields.io/badge/%20-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
+  <img src="https://img.shields.io/badge/%20-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
+  <img src="https://img.shields.io/badge/%20-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/%20-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Access">
+  <img src="https://img.shields.io/badge/%20-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/%20-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Spreadsheet">
+  <img src="https://img.shields.io/badge/%20-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word">
 </p>
 
 ### 📊 GitHub Stats

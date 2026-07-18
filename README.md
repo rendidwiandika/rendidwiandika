@@ -41,19 +41,19 @@ Saya senang belajar hal baru di dunia data dan terbuka untuk kolaborasi, magang,
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="45"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="45"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="45"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" height="45"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" height="45"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" height="45"></td>
+    <td align="center"><img src="./assets/python.png" height="70" title="Python"></td>
+    <td align="center"><img src="./assets/postgre.png" height="70" title="PostgreSQL"></td>
+    <td align="center"><img src="./assets/mysql.png" height="70" title="MySQL"></td>
+    <td align="center"><img src="./assets/bigquery.png" height="70" title="BigQuery"></td>
+    <td align="center"><img src="./assets/snowflake.png" height="70" title="Snowflake"></td>
+    <td align="center"><img src="./assets/sap.png" height="70" title="SAP"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="45"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Access" height="45"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" height="45"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" height="45"></td>
-    <td align="center"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="45"></td>
+    <td align="center"><img src="./assets/powerbi.png" height="70" title="Power BI"></td>
+    <td align="center"><img src="./assets/access.png" height="70" title="Access"></td>
+    <td align="center"><img src="./assets/excel.png" height="70" title="Excel"></td>
+    <td align="center"><img src="./assets/spreadsheet.png" height="70" title="Google Sheets"></td>
+    <td align="center"><img src="./assets/github.png" height="70" title="GitHub"></td>
     <td></td>
   </tr>
 </table>
@@ -64,7 +64,7 @@ Saya senang belajar hal baru di dunia data dan terbuka untuk kolaborasi, magang,
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rendidwiandika">
-    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
+    <img src="./assets/linkedin.png" alt="LinkedIn" height="70">
   </a>
 </p>
 

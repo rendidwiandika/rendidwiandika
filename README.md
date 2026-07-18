@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="./github-header-banner.png" width="100%" alt="Header Banner">
+<img src="./assets/banner.png" width="100%" alt="Header Banner">
 
 <!-- GIF Anime -->
 <div align="center">
@@ -12,20 +12,20 @@ Saya adalah mahasiswa **Bisnis Digital** yang berfokus pada **Data Analytics**. 
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <!-- Icon Developer & Database (Pakai gambar yang udah di-upload manual!) -->
-  <a href="#"><img src="./python_18894-removebg-preview.png" height="35" alt="Python"></a> &nbsp;
-  <a href="#"><img src="./postgree-removebg-preview.png" height="35" alt="PostgreSQL"></a> &nbsp;
-  <a href="#"><img src="./mysql-6-logo-png-transparent-removebg-preview.png" height="35" alt="MySQL"></a> &nbsp;
-  <a href="#"><img src="./bigquerry-removebg-preview.png" height="35" alt="BigQuery"></a> &nbsp;
-  <a href="#"><img src="./pngtree-cartoon-snowflake-icon-download-png-image_4440099-removebg-preview.png" height="35" alt="Snowflake"></a> &nbsp;
-  <a href="#"><img src="./sap-logo-vector-11573942505cqxaqpwu0h-removebg-preview.png" height="35" alt="SAP"></a> &nbsp;
+  <!-- Icon Developer & Database -->
+  <a href="#"><img src="./assets/python.png" height="35" alt="Python"></a> &nbsp;
+  <a href="#"><img src="./assets/postgre.png" height="35" alt="PostgreSQL"></a> &nbsp;
+  <a href="#"><img src="./assets/mysql.png" height="35" alt="MySQL"></a> &nbsp;
+  <a href="#"><img src="./assets/bigquery.png" height="35" alt="BigQuery"></a> &nbsp;
+  <a href="#"><img src="./assets/snowflake.png" height="35" alt="Snowflake"></a> &nbsp;
+  <a href="#"><img src="./assets/sap.png" height="35" alt="SAP"></a> &nbsp;
   <br><br>
   <!-- Icon Analisis & Office -->
-  <a href="#"><img src="./power-bi-logo-freelogovectors.net_-removebg-preview.png" height="35" alt="Power BI"></a> &nbsp;
-  <a href="#"><img src="./microsoft-access-removebg-preview.png" height="35" alt="Access"></a> &nbsp;
-  <a href="#"><img src="./Microsoft-Excel-Logo-New-removebg-preview.png" height="35" alt="Excel"></a> &nbsp;
-  <a href="#"><img src="./google-sheet-spreadsheet-icon-logo-symbol-free-png-removebg-preview.png" height="35" alt="Spreadsheet"></a> &nbsp;
-  <a href="#"><img src="./Github Logo.png" height="35" alt="GitHub"></a> 
+  <a href="#"><img src="./assets/powerbi.png" height="35" alt="Power BI"></a> &nbsp;
+  <a href="#"><img src="./assets/access.png" height="35" alt="Access"></a> &nbsp;
+  <a href="#"><img src="./assets/excel.png" height="35" alt="Excel"></a> &nbsp;
+  <a href="#"><img src="./assets/spreadsheet.png" height="35" alt="Spreadsheet"></a> &nbsp;
+  <a href="#"><img src="./assets/github.png" height="35" alt="GitHub"></a> 
 </p>
 
 ### 📊 GitHub Stats
@@ -36,7 +36,7 @@ Saya adalah mahasiswa **Bisnis Digital** yang berfokus pada **Data Analytics**. 
 ### 📫 Mari Terhubung!
 <p align="left">
   <a href="https://www.linkedin.com/in/rendidwiandika">
-    <img src="./linkedin-icon-free-png-removebg-preview.png" height="35" alt="LinkedIn">
+    <img src="./assets/linkedin.png" height="35" alt="LinkedIn">
   </a>
 </p>
 

@@ -12,20 +12,20 @@ Saya adalah mahasiswa **Bisnis Digital** yang berfokus pada **Data Analytics**. 
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <!-- Icon Developer & Database (Kotak Background, Tanpa Teks) -->
-  <img src="https://img.shields.io/badge/%20-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/%20-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/%20-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/%20-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="BigQuery">
-  <img src="https://img.shields.io/badge/%20-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake">
-  <img src="https://img.shields.io/badge/%20-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP">
+  <!-- Icon Developer & Database (Pakai gambar yang udah di-upload manual!) -->
+  <a href="#"><img src="./python_18894-removebg-preview.png" height="35" alt="Python"></a> &nbsp;
+  <a href="#"><img src="./postgree-removebg-preview.png" height="35" alt="PostgreSQL"></a> &nbsp;
+  <a href="#"><img src="./mysql-6-logo-png-transparent-removebg-preview.png" height="35" alt="MySQL"></a> &nbsp;
+  <a href="#"><img src="./bigquerry-removebg-preview.png" height="35" alt="BigQuery"></a> &nbsp;
+  <a href="#"><img src="./pngtree-cartoon-snowflake-icon-download-png-image_4440099-removebg-preview.png" height="35" alt="Snowflake"></a> &nbsp;
+  <a href="#"><img src="./sap-logo-vector-11573942505cqxaqpwu0h-removebg-preview.png" height="35" alt="SAP"></a> &nbsp;
   <br><br>
-  <!-- Icon Analisis & Office (Kotak Background, Tanpa Teks) -->
-  <img src="https://img.shields.io/badge/%20-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/%20-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Access">
-  <img src="https://img.shields.io/badge/%20-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/%20-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Spreadsheet">
-  <img src="https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <!-- Icon Analisis & Office -->
+  <a href="#"><img src="./power-bi-logo-freelogovectors.net_-removebg-preview.png" height="35" alt="Power BI"></a> &nbsp;
+  <a href="#"><img src="./microsoft-access-removebg-preview.png" height="35" alt="Access"></a> &nbsp;
+  <a href="#"><img src="./Microsoft-Excel-Logo-New-removebg-preview.png" height="35" alt="Excel"></a> &nbsp;
+  <a href="#"><img src="./google-sheet-spreadsheet-icon-logo-symbol-free-png-removebg-preview.png" height="35" alt="Spreadsheet"></a> &nbsp;
+  <a href="#"><img src="./Github Logo.png" height="35" alt="GitHub"></a> 
 </p>
 
 ### 📊 GitHub Stats
@@ -36,7 +36,7 @@ Saya adalah mahasiswa **Bisnis Digital** yang berfokus pada **Data Analytics**. 
 ### 📫 Mari Terhubung!
 <p align="left">
   <a href="https://www.linkedin.com/in/rendidwiandika">
-    <img src="https://img.shields.io/badge/%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="./linkedin-icon-free-png-removebg-preview.png" height="35" alt="LinkedIn">
   </a>
 </p>
 

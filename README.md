@@ -1,5 +1,5 @@
-<!-- Banner Bisnis & Data -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00529B&height=250&section=header&text=Transforming%20Data%20into%20Business%20Value&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Digital%20Business%20%7C%20Data%20Analytics&descAlign=Y&descAlignY=65" width="100%">
+<!-- Banner Baru dari Generator -->
+<img src="./github-header-banner.png" width="100%" alt="Header Banner">
 
 <!-- GIF Anime (Tengah) -->
 <div align="center">

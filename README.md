@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<!-- GIF Anime -->
+<!-- MY Waifu  -->
 <div align="center">
   <img src="https://media1.tenor.com/m/PXDaK1lyl9UAAAAd/hey-hey-ai-hayasaka.gif" width="280" alt="Anime Waifu">
 </div>

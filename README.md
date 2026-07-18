@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Rendi Dwi Andika Banner">
+  <img src="./assets/banner.png?v=20260718" width="100%" alt="Rendi Dwi Andika Banner">
 </p>
 
 <!-- Typing animation -->
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<!-- MY Waifu  -->
+<!-- GIF Anime -->
 <div align="center">
   <img src="https://media1.tenor.com/m/PXDaK1lyl9UAAAAd/hey-hey-ai-hayasaka.gif" width="280" alt="Anime Waifu">
 </div>
@@ -41,19 +41,19 @@ Saya senang belajar hal baru di dunia data dan terbuka untuk kolaborasi, magang,
 
 <table align="center">
   <tr>
-    <td align="center"><img src="./assets/python.png" height="70" title="Python"></td>
-    <td align="center"><img src="./assets/postgre.png" height="70" title="PostgreSQL"></td>
-    <td align="center"><img src="./assets/mysql.png" height="70" title="MySQL"></td>
-    <td align="center"><img src="./assets/bigquery.png" height="70" title="BigQuery"></td>
-    <td align="center"><img src="./assets/snowflake.png" height="70" title="Snowflake"></td>
-    <td align="center"><img src="./assets/sap.png" height="70" title="SAP"></td>
+    <td align="center"><img src="./assets/python.png?v=20260718" height="70" title="Python"></td>
+    <td align="center"><img src="./assets/postgre.png?v=20260718" height="70" title="PostgreSQL"></td>
+    <td align="center"><img src="./assets/mysql.png?v=20260718" height="70" title="MySQL"></td>
+    <td align="center"><img src="./assets/bigquery.png?v=20260718" height="70" title="BigQuery"></td>
+    <td align="center"><img src="./assets/snowflake.png?v=20260718" height="70" title="Snowflake"></td>
+    <td align="center"><img src="./assets/sap.png?v=20260718" height="70" title="SAP"></td>
   </tr>
   <tr>
-    <td align="center"><img src="./assets/powerbi.png" height="70" title="Power BI"></td>
-    <td align="center"><img src="./assets/access.png" height="70" title="Access"></td>
-    <td align="center"><img src="./assets/excel.png" height="70" title="Excel"></td>
-    <td align="center"><img src="./assets/spreadsheet.png" height="70" title="Google Sheets"></td>
-    <td align="center"><img src="./assets/github.png" height="70" title="GitHub"></td>
+    <td align="center"><img src="./assets/powerbi.png?v=20260718" height="70" title="Power BI"></td>
+    <td align="center"><img src="./assets/access.png?v=20260718" height="70" title="Access"></td>
+    <td align="center"><img src="./assets/excel.png?v=20260718" height="70" title="Excel"></td>
+    <td align="center"><img src="./assets/spreadsheet.png?v=20260718" height="70" title="Google Sheets"></td>
+    <td align="center"><img src="./assets/github.png?v=20260718" height="70" title="GitHub"></td>
     <td></td>
   </tr>
 </table>
@@ -64,7 +64,7 @@ Saya senang belajar hal baru di dunia data dan terbuka untuk kolaborasi, magang,
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rendidwiandika">
-    <img src="./assets/linkedin.png" alt="LinkedIn" height="70">
+    <img src="./assets/linkedin.png?v=20260718" alt="LinkedIn" height="70">
   </a>
 </p>
 

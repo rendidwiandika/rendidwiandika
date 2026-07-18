@@ -10,10 +10,14 @@
   </a>
 </p>
 
-<!-- Tagline teks biasa, bukan badge/tombol -->
-<p align="center">
-  <sub>📊 <b>Data Analytics</b> &nbsp;&middot;&nbsp; 💼 <b>Bisnis Digital</b> &nbsp;&middot;&nbsp; 🎯 <i>Business + Data = Better Decisions</i></sub>
-</p>
+<!-- Tagline dalam kotak, biar gak kosong tapi tetap gak kelihatan kayak tombol -->
+<table align="center">
+  <tr>
+    <td align="center">
+      📊 <b>Data Analytics</b> &nbsp;&middot;&nbsp; 💼 <b>Bisnis Digital</b> &nbsp;&middot;&nbsp; 🎯 <i>Business + Data = Better Decisions</i>
+    </td>
+  </tr>
+</table>
 
 <!-- GIF Anime -->
 <div align="center">
@@ -24,13 +28,23 @@
 
 ### 🧭 Tentang Saya
 
-Saya mahasiswa **Bisnis Digital** yang fokus mendalami **Data Analytics** — mengubah data mentah menjadi wawasan bisnis yang bisa dipakai untuk mengambil keputusan. Ketertarikan saya ada di tiga area:
+<h4>
+
+Saya mahasiswa **Bisnis Digital** yang fokus mendalami **Data Analytics** — mengubah data mentah menjadi wawasan bisnis yang bisa dipakai untuk mengambil keputusan.
+
+</h4>
+
+Ketertarikan saya ada di tiga area:
 
 - 📈 Merancang strategi bisnis berbasis data
 - 🗄️ Mengelola dan memodelkan database
 - 📊 Membangun dashboard interaktif, terutama untuk kebutuhan sektor korporat & finansial
 
+<h4>
+
 Saya senang belajar hal baru di dunia data dan terbuka untuk kolaborasi, magang, atau diskusi seputar data analytics maupun business intelligence.
+
+</h4>
 
 ---
 

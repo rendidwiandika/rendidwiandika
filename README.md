@@ -13,19 +13,19 @@ Saya adalah mahasiswa **Bisnis Digital** yang berfokus pada **Data Analytics**. 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <!-- Icon Developer & Database (Upload Manual) -->
-  <img src="./python_18894-removebg-preview.png" width="40" alt="Python"> &nbsp;
-  <img src="./postgree-removebg-preview.png" width="40" alt="PostgreSQL"> &nbsp;
-  <img src="./mysql-6-logo-png-transparent-removebg-preview.png" width="40" alt="MySQL"> &nbsp;
-  <img src="./bigquerry-removebg-preview.png" width="40" alt="BigQuery"> &nbsp;
-  <img src="./pngtree-cartoon-snowflake-icon-download-png-image_4440099-removebg-preview.png" width="40" alt="Snowflake"> &nbsp;
-  <img src="./sap-logo-vector-11573942505cqxaqpwu0h-removebg-preview.png" width="40" alt="SAP"> &nbsp;
+  <a href="#"><img src="./python_18894-removebg-preview.png" height="35" alt="Python"></a> &nbsp;
+  <a href="#"><img src="./postgree-removebg-preview.png" height="35" alt="PostgreSQL"></a> &nbsp;
+  <a href="#"><img src="./mysql-6-logo-png-transparent-removebg-preview.png" height="35" alt="MySQL"></a> &nbsp;
+  <a href="#"><img src="./bigquerry-removebg-preview.png" height="35" alt="BigQuery"></a> &nbsp;
+  <a href="#"><img src="./pngtree-cartoon-snowflake-icon-download-png-image_4440099-removebg-preview.png" height="35" alt="Snowflake"></a> &nbsp;
+  <a href="#"><img src="./sap-logo-vector-11573942505cqxaqpwu0h-removebg-preview.png" height="35" alt="SAP"></a> &nbsp;
   <br><br>
   <!-- Icon Analisis & Office (Upload Manual) -->
-  <img src="./power-bi-logo-freelogovectors.net_-removebg-preview.png" width="40" alt="Power BI"> &nbsp;
-  <img src="./microsoft-access-removebg-preview.png" width="40" alt="Access"> &nbsp;
-  <img src="./Microsoft-Excel-Logo-New-removebg-preview.png" width="40" alt="Excel"> &nbsp;
-  <img src="./google-sheet-spreadsheet-icon-logo-symbol-free-png-removebg-preview.png" width="40" alt="Spreadsheet"> &nbsp;
-  <img src="./Github Logo.png" width="40" alt="GitHub"> 
+  <a href="#"><img src="./power-bi-logo-freelogovectors.net_-removebg-preview.png" height="35" alt="Power BI"></a> &nbsp;
+  <a href="#"><img src="./microsoft-access-removebg-preview.png" height="35" alt="Access"></a> &nbsp;
+  <a href="#"><img src="./Microsoft-Excel-Logo-New-removebg-preview.png" height="35" alt="Excel"></a> &nbsp;
+  <a href="#"><img src="./google-sheet-spreadsheet-icon-logo-symbol-free-png-removebg-preview.png" height="35" alt="Spreadsheet"></a> &nbsp;
+  <a href="#"><img src="./Github Logo.png" height="35" alt="GitHub"></a> 
 </p>
 
 ### 📊 GitHub Stats
@@ -36,7 +36,7 @@ Saya adalah mahasiswa **Bisnis Digital** yang berfokus pada **Data Analytics**. 
 ### 📫 Mari Terhubung!
 <p align="left">
   <a href="https://www.linkedin.com/in/rendidwiandika">
-    <img src="./linkedin-icon-free-png-removebg-preview.png" width="40" alt="LinkedIn">
+    <img src="./linkedin-icon-free-png-removebg-preview.png" height="35" alt="LinkedIn">
   </a>
 </p>
 

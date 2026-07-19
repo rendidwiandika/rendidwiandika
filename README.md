@@ -19,7 +19,7 @@
 
 <h4>
 
-Saya mahasiswa **Bisnis Digital** yang fokus mendalami **Data Analytics** — mengubah data mentah menjadi wawasan bisnis yang bisa dipakai untuk mengambil keputusan.
+Saya mahasiswa **Bisnis Digital** yang fokus mendalami **Data Analytics** yang berfokus untuk mengubah data mentah menjadi wawasan bisnis yang bisa dipakai untuk mengambil keputusan.
 
 </h4>
 

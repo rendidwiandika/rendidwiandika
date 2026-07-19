@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Banner (animated) -->
 <p align="center">
-  <img src="./assets/banner.png?v=20260718" width="100%" alt="Rendi Dwi Andika Banner">
+  <img src="./assets/banner-animated.svg" width="100%" alt="Rendi Dwi Andika Banner">
 </p>
 
 <!-- Typing animation -->
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<!-- My Hayasaka Ai -->
+<!-- GIF Anime -->
 <div align="center">
   <img src="https://media1.tenor.com/m/PXDaK1lyl9UAAAAd/hey-hey-ai-hayasaka.gif" width="280" alt="Anime Waifu">
 </div>

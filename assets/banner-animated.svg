@@ -1,11 +1,11 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#38BDF8">
-        <animate attributeName="stop-color" values="#38BDF8;#0EA5E9;#2563EB;#38BDF8" dur="8s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#FDE047">
+        <animate attributeName="stop-color" values="#FDE047;#FACC15;#EAB308;#FDE047" dur="8s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#1E3A8A">
-        <animate attributeName="stop-color" values="#1E3A8A;#1E40AF;#0369A1;#1E3A8A" dur="8s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#CA8A04">
+        <animate attributeName="stop-color" values="#CA8A04;#B45309;#D97706;#CA8A04" dur="8s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
     <clipPath id="clip">
@@ -16,8 +16,8 @@
   <g clip-path="url(#clip)">
     <rect x="0" y="0" width="1200" height="300" fill="url(#bgGrad)"/>
 
-    <!-- decorative circuit lines, slowly flowing -->
-    <g stroke="#ffffff" stroke-opacity="0.18" stroke-width="2" fill="none">
+    <!-- decorative circuit lines, flowing -->
+    <g stroke="#1F2937" stroke-opacity="0.18" stroke-width="2" fill="none">
       <path d="M0,60 H200 V20 H400" stroke-dasharray="10 8">
         <animate attributeName="stroke-dashoffset" values="0;-180" dur="6s" repeatCount="indefinite"/>
       </path>
@@ -27,19 +27,19 @@
       <path d="M0,220 H150 V260" stroke-dasharray="8 6">
         <animate attributeName="stroke-dashoffset" values="0;-140" dur="5s" repeatCount="indefinite"/>
       </path>
-      <circle cx="200" cy="20" r="4" fill="#ffffff" fill-opacity="0.3"/>
-      <circle cx="400" cy="20" r="4" fill="#ffffff" fill-opacity="0.3"/>
-      <circle cx="1000" cy="240" r="4" fill="#ffffff" fill-opacity="0.3"/>
+      <circle cx="200" cy="20" r="4" fill="#1F2937" fill-opacity="0.3"/>
+      <circle cx="400" cy="20" r="4" fill="#1F2937" fill-opacity="0.3"/>
+      <circle cx="1000" cy="240" r="4" fill="#1F2937" fill-opacity="0.3"/>
     </g>
 
     <!-- Title text -->
-    <text x="70" y="140" font-family="Verdana, Arial, sans-serif" font-size="46" fill="#ffffff" opacity="0">
+    <text x="70" y="140" font-family="Verdana, Arial, sans-serif" font-size="46" fill="#1F2937" opacity="0">
       Hey! I am Rendi Dwi Andika
       <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.2s" fill="freeze"/>
     </text>
 
     <!-- Subtitle text -->
-    <text x="70" y="185" font-family="Georgia, 'Comic Sans MS', cursive" font-style="italic" font-size="22" fill="#ffffff" opacity="0">
+    <text x="70" y="185" font-family="Georgia, 'Comic Sans MS', cursive" font-style="italic" font-size="22" fill="#3F3F1F" opacity="0">
       Digital Business Student | Data Analytics Enthusiast
       <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.7s" fill="freeze"/>
     </text>

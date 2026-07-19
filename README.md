@@ -1,4 +1,4 @@
-<!-- Banner (tema kuning) -->
+<!-- Banner  -->
 <p align="center">
   <img src="./assets/banner-animated.svg" width="100%" alt="Rendi Dwi Andika Banner">
 </p>
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<!-- GIF Anime -->
+<!-- GIF My Waifu -->
 <div align="center">
   <img src="https://media1.tenor.com/m/PXDaK1lyl9UAAAAd/hey-hey-ai-hayasaka.gif" width="280" alt="Anime Waifu">
 </div>

@@ -1,12 +1,12 @@
-<!-- Banner (animated) -->
+<!-- Banner (animated, tema kuning) -->
 <p align="center">
-  <img src="./assets/banner-animated.svg" width="100%" alt="Rendi Dwi Andika Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDE047,100:CA8A04&height=220&section=header&text=Hey!%20I%20am%20Rendi%20Dwi%20Andika&fontSize=42&fontColor=1F2937&fontAlignY=35&animation=fadeIn&desc=Digital%20Business%20Student%20%7C%20Data%20Analytics%20Enthusiast&descAlignY=55&descSize=18&descColor=1F2937" width="100%" alt="Rendi Dwi Andika Banner">
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/rendidwiandika">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Halo%2C+Saya+Rendi+Dwi+Andika+%F0%9F%91%8B;Data+Analytics+Enthusiast;Business+%2B+Data+%3D+Better+Decisions" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=EAB308&center=true&vCenter=true&width=600&lines=Halo%2C+Saya+Rendi+Dwi+Andika+%F0%9F%91%8B;Data+Analytics+Enthusiast;Business+%2B+Data+%3D+Better+Decisions" alt="Typing SVG">
   </a>
 </p>
 
@@ -75,7 +75,7 @@ Saya senang belajar hal baru di dunia data dan terbuka untuk kolaborasi, magang,
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rendidwiandika&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=rendidwiandika&label=Profile%20Views&color=EAB308&style=flat-square" alt="Profile Views">
 </p>
 
 <p align="center"><i>Terima kasih sudah mampir ke profil saya! 🚀</i></p>

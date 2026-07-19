@@ -1,6 +1,6 @@
-<!-- Banner (animated, tema kuning) -->
+<!-- Banner (tema kuning) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDE047,100:CA8A04&height=220&section=header&text=Hey!%20I%20am%20Rendi%20Dwi%20Andika&fontSize=42&fontColor=1F2937&fontAlignY=35&animation=fadeIn&desc=Digital%20Business%20Student%20%7C%20Data%20Analytics%20Enthusiast&descAlignY=55&descSize=18&descColor=1F2937" width="100%" alt="Rendi Dwi Andika Banner">
+  <img src="./assets/banner-animated.svg" width="100%" alt="Rendi Dwi Andika Banner">
 </p>
 
 <!-- Typing animation -->
